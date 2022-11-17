@@ -1,0 +1,18 @@
+/* BASIC STYLES HERE */
+
+.search-area {
+  background-color: #37663c;
+  color: antiquewhite;
+  /* height: 100vh; */
+  /* overflow: hidden; */
+}
+
+/* body {
+  overflow: hidden;
+} */
+
+/* TODO create infinite scroll or independent scrolling div */
+.gift-scroll {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
